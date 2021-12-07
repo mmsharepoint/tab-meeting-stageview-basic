@@ -4,14 +4,20 @@ Teams meeting app showing up in sidePanel and on stageView.
 
 ## Summary
 This sample is a Teams meeting app created using the Teams Yeoman Generator. It's a tab showing up during in-Meeting experince in the sidePanel but also, once shared, in the stageView for all meeting participants.
+
 Open sidePanel
+
 ![OnStageView](assets/03SidePanelView.jpg)
+
 Share onStage view
+
 ![OnStageView](assets/04ShareOnStageView.jpg)
+
 The onStage view experience
+
 ![OnStageView](assets/05StageView.jpg)
 
-For further details see the author's [blog post](https://mmsharepoint.wordpress.com/)
+For further details see the author's [blog post](https://mmsharepoint.wordpress.com/2021/12/07/teams-meeting-apps-stage-view-basics/)
 
 ## Prerequisites
 
